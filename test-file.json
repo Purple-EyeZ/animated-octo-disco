@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Catalyst",
+        "description": "Looks like the Catalyst web browser",
+        "authors": [
+            "jdev082"
+        ],
+        "sourceUrl": "https://github.com/jdev082/vd-repo",
+        "installUrl": "https://jdev082.github.io/vd-repo/themes/catalyst.json",
+        "images": [
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-16.9.png",
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-9.16.png"
+        ],
+        "tags": [
+            "dark"
+        ]
+    },
+    {
+        "name": "Strawberry Cheesecake",
+        "description": "A theme using real cheesecake as main color and real strawberries as accent. Don't question it, just enjoy!",
+        "authors": [
+            "TraxTRL"
+        ],
+        "sourceUrl": "https://github.com/TraxTRL/discord-themes",
+        "installUrl": "https://raw.githubusercontent.com/TraxTRL/discord-themes/main/StrawberryCheesecake.json",
+        "images": [
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-9.16.png"
+        ],
+        "tags": [
+            "dark",
+            "red"
+        ]
+    },
+    {
+        "name": "Rogue",
+        "description": "a bad-ass looking Dark Grey & Red theme (DARK MODE REQUIRED)",
+        "authors": [
+            "Λrtful"
+        ],
+        "sourceUrl": "https://github.com/cyriotic3/VendettaThemes",
+        "installUrl": "https://raw.githubusercontent.com/cyriotic3/VendettaThemes/main/rogue.json",
+        "images": [
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-16.9.png"
+        ],
+        "tags": [
+            "background",
+            "dark",
+            "red"
+        ]
+    },
+    {
+        "name": "Purpl",
+        "description": "A purple theme based off my Material You™ color scheme",
+        "authors": [
+            "Ari"
+        ],
+        "sourceUrl": "https://github.com/ArisonID/aris-silly-themes",
+        "installUrl": "https://raw.githubusercontent.com/ArisonID/aris-silly-themes/main/Purpl.json",
+        "images": [
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-9.16.png"
+        ],
+        "tags": [
+            "dark",
+            "purple"
+        ]
+    },
+    {
+        "name": "Origins - Blue",
+        "description": "1 of 4, randomly selected colors from the members of Sound's world.",
+        "authors": [
+            "Ari"
+        ],
+        "sourceUrl": "https://github.com/ArisonID/aris-silly-themes",
+        "installUrl": "https://raw.githubusercontent.com/ArisonID/aris-silly-themes/main/Origins_Blue.json",
+        "images": [
+            "https://raw.githubusercontent.com/Purple-EyeZ/animated-octo-disco/refs/heads/main/PLACEHOLDER-16.9.png"
+        ],
+        "tags": [
+            "dark",
+            "blue"
+        ]
+    }
+]

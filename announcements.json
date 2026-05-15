@@ -2,8 +2,8 @@
     "announcements": [
         {
             "id": 1,
-            "title": "PRE-ORDER GTA VI",
-            "message": "GTA VI pre-orders are now available!",
+            "title": "GTA VI PRE-ORDER",
+            "message": "GTA VI pre-orders are officially available now!",
             "imageUrl": "https://i.imgur.com/i2NrP9S.jpeg",
             "buttonText": "PRE-ORDER NOW!",
             "buttonUrl": "https://www.rockstargames.com/VI"

@@ -1,19 +1,19 @@
 {
     "announcements": [
         {
-            "id": 2,
-            "title": "Pre order now!",
-            "message": "Pre orders for GTA 6 are coming soon!",
-            "imageUrl": "https://i.imgur.com/M5K8i6m.jpeg",
-            "buttonText": "View Page",
-            "buttonUrl": "https://www.rockstargames.com/VI"
-        },
-        {
             "id": 3,
             "title": "Test id 3",
             "message": "Pre orders for GTA 6 are coming soon!",
             "imageUrl": "https://i.imgur.com/M5K8i6m.jpeg",
             "buttonText": "PRE ORDER NOW!",
+            "buttonUrl": "https://www.rockstargames.com/VI"
+        },
+        {
+            "id": 2,
+            "title": "Pre order now!",
+            "message": "Pre orders for GTA 6 are coming soon!",
+            "imageUrl": "https://i.imgur.com/M5K8i6m.jpeg",
+            "buttonText": "View Page",
             "buttonUrl": "https://www.rockstargames.com/VI"
         }
     ]
